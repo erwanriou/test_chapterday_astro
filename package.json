@@ -1,0 +1,23 @@
+{
+  "name": "chapterday-astro",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/react": "^3.0.10",
+    "@builder.io/qwik": "^1.5.1",
+    "@qwikdev/astro": "^0.5.7",
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "astro": "^4.4.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.4.2"
+  }
+}
